@@ -1,0 +1,267 @@
+[25-Oct-2024 19:30:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mysucces/jute.mysuccesselearningplatform.com/include/config.php on line 6
+[25-Oct-2024 19:30:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 240
+[25-Oct-2024 19:30:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 241
+[25-Oct-2024 19:30:32 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/mysucces/jute.mysuccesselearningplatform.com/include/bengali_footer.php on line 66
+[25-Oct-2024 19:30:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mysucces/jute.mysuccesselearningplatform.com/include/config.php on line 6
+[25-Oct-2024 19:30:32 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mysucces/jute.mysuccesselearningplatform.com/include/bengali_footer.php on line 66
+[25-Oct-2024 19:30:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mysucces/jute.mysuccesselearningplatform.com/include/config.php on line 6
+[25-Oct-2024 19:30:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 240
+[25-Oct-2024 19:30:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 241
+[25-Oct-2024 19:30:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mysucces/jute.mysuccesselearningplatform.com/include/config.php on line 6
+[25-Oct-2024 19:30:39 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mysucces/jute.mysuccesselearningplatform.com/include/bengali_footer.php on line 66
+[25-Oct-2024 19:30:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mysucces/jute.mysuccesselearningplatform.com/include/config.php on line 6
+[25-Oct-2024 19:30:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 240
+[25-Oct-2024 19:30:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 241
+[25-Oct-2024 19:30:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mysucces/jute.mysuccesselearningplatform.com/include/config.php on line 6
+[25-Oct-2024 19:30:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mysucces/jute.mysuccesselearningplatform.com/include/bengali_footer.php on line 66
+[25-Oct-2024 19:30:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mysucces/jute.mysuccesselearningplatform.com/include/config.php on line 6
+[25-Oct-2024 19:30:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 240
+[25-Oct-2024 19:30:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 241
+[25-Oct-2024 19:30:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mysucces/jute.mysuccesselearningplatform.com/include/config.php on line 6
+[25-Oct-2024 19:30:48 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mysucces/jute.mysuccesselearningplatform.com/include/bengali_footer.php on line 66
+[25-Oct-2024 19:30:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mysucces/jute.mysuccesselearningplatform.com/include/config.php on line 6
+[25-Oct-2024 19:30:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 240
+[25-Oct-2024 19:30:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 241
+[25-Oct-2024 19:30:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mysucces/jute.mysuccesselearningplatform.com/include/config.php on line 6
+[25-Oct-2024 19:30:51 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mysucces/jute.mysuccesselearningplatform.com/include/bengali_footer.php on line 66
+[25-Oct-2024 19:34:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mysucces/jute.mysuccesselearningplatform.com/include/config.php on line 6
+[25-Oct-2024 19:34:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 240
+[25-Oct-2024 19:34:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 241
+[25-Oct-2024 19:34:23 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/mysucces/jute.mysuccesselearningplatform.com/include/bengali_footer.php on line 66
+[25-Oct-2024 19:34:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mysucces/jute.mysuccesselearningplatform.com/include/config.php on line 6
+[25-Oct-2024 19:34:23 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mysucces/jute.mysuccesselearningplatform.com/include/bengali_footer.php on line 66
+[25-Oct-2024 19:34:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mysucces/jute.mysuccesselearningplatform.com/include/config.php on line 6
+[25-Oct-2024 19:34:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 240
+[25-Oct-2024 19:34:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 241
+[25-Oct-2024 19:34:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mysucces/jute.mysuccesselearningplatform.com/include/config.php on line 6
+[25-Oct-2024 19:34:26 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mysucces/jute.mysuccesselearningplatform.com/include/bengali_footer.php on line 66
+[25-Oct-2024 19:34:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mysucces/jute.mysuccesselearningplatform.com/include/config.php on line 6
+[25-Oct-2024 19:34:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 240
+[25-Oct-2024 19:34:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 241
+[25-Oct-2024 19:34:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mysucces/jute.mysuccesselearningplatform.com/include/config.php on line 6
+[25-Oct-2024 19:34:27 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mysucces/jute.mysuccesselearningplatform.com/include/bengali_footer.php on line 66
+[25-Oct-2024 19:35:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mysucces/jute.mysuccesselearningplatform.com/include/config.php on line 6
+[25-Oct-2024 19:35:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 240
+[25-Oct-2024 19:35:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 241
+[25-Oct-2024 19:35:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mysucces/jute.mysuccesselearningplatform.com/include/config.php on line 6
+[25-Oct-2024 19:35:50 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mysucces/jute.mysuccesselearningplatform.com/include/bengali_footer.php on line 66
+[25-Oct-2024 19:35:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mysucces/jute.mysuccesselearningplatform.com/include/config.php on line 6
+[25-Oct-2024 19:35:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 240
+[25-Oct-2024 19:35:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 241
+[25-Oct-2024 19:35:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mysucces/jute.mysuccesselearningplatform.com/include/config.php on line 6
+[25-Oct-2024 19:35:52 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mysucces/jute.mysuccesselearningplatform.com/include/bengali_footer.php on line 66
+[25-Oct-2024 19:37:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mysucces/jute.mysuccesselearningplatform.com/include/config.php on line 6
+[25-Oct-2024 19:37:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 240
+[25-Oct-2024 19:37:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 241
+[25-Oct-2024 19:37:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mysucces/jute.mysuccesselearningplatform.com/include/config.php on line 6
+[25-Oct-2024 19:37:02 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mysucces/jute.mysuccesselearningplatform.com/include/bengali_footer.php on line 66
+[25-Oct-2024 19:43:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mysucces/jute.mysuccesselearningplatform.com/include/config.php on line 6
+[25-Oct-2024 19:43:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 240
+[25-Oct-2024 19:43:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 241
+[25-Oct-2024 19:43:31 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/mysucces/jute.mysuccesselearningplatform.com/include/bengali_footer.php on line 66
+[25-Oct-2024 19:43:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mysucces/jute.mysuccesselearningplatform.com/include/config.php on line 6
+[25-Oct-2024 19:43:31 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mysucces/jute.mysuccesselearningplatform.com/include/bengali_footer.php on line 66
+[25-Oct-2024 19:43:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mysucces/jute.mysuccesselearningplatform.com/include/config.php on line 6
+[25-Oct-2024 19:43:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 240
+[25-Oct-2024 19:43:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 241
+[25-Oct-2024 19:43:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mysucces/jute.mysuccesselearningplatform.com/include/config.php on line 6
+[25-Oct-2024 19:43:48 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mysucces/jute.mysuccesselearningplatform.com/include/bengali_footer.php on line 66
+[25-Oct-2024 19:50:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mysucces/jute.mysuccesselearningplatform.com/include/config.php on line 6
+[25-Oct-2024 19:50:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 240
+[25-Oct-2024 19:50:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 241
+[25-Oct-2024 19:50:39 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/mysucces/jute.mysuccesselearningplatform.com/include/bengali_footer.php on line 66
+[25-Oct-2024 19:50:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mysucces/jute.mysuccesselearningplatform.com/include/config.php on line 6
+[25-Oct-2024 19:50:39 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mysucces/jute.mysuccesselearningplatform.com/include/bengali_footer.php on line 66
+[25-Oct-2024 19:52:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mysucces/jute.mysuccesselearningplatform.com/include/config.php on line 6
+[25-Oct-2024 19:52:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 63
+[25-Oct-2024 19:52:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 64
+[25-Oct-2024 19:52:39 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mysucces/jute.mysuccesselearningplatform.com/include/footer1.php on line 63
+[25-Oct-2024 19:52:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mysucces/jute.mysuccesselearningplatform.com/include/config.php on line 6
+[25-Oct-2024 19:52:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 63
+[25-Oct-2024 19:52:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 64
+[25-Oct-2024 19:52:42 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mysucces/jute.mysuccesselearningplatform.com/include/footer1.php on line 63
+[25-Oct-2024 22:14:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mysucces/jute.mysuccesselearningplatform.com/include/config.php on line 6
+[25-Oct-2024 22:14:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 240
+[25-Oct-2024 22:14:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 241
+[25-Oct-2024 22:14:59 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/mysucces/jute.mysuccesselearningplatform.com/include/bengali_footer.php on line 66
+[25-Oct-2024 22:14:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mysucces/jute.mysuccesselearningplatform.com/include/config.php on line 6
+[25-Oct-2024 22:14:59 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mysucces/jute.mysuccesselearningplatform.com/include/bengali_footer.php on line 66
+[26-Oct-2024 00:39:28 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 00:39:28 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 00:39:28 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 00:39:28 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 00:39:28 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 00:39:28 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 00:39:28 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 00:39:28 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 00:39:28 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/mysucces/jute.mysuccesselearningplatform.com/include/bengali_footer.php on line 66
+[26-Oct-2024 00:39:28 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mysucces/jute.mysuccesselearningplatform.com/include/bengali_footer.php on line 66
+[26-Oct-2024 00:39:30 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mysucces/jute.mysuccesselearningplatform.com/include/footer1.php on line 63
+[26-Oct-2024 00:43:26 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 00:43:26 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 00:43:26 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 00:43:26 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 00:43:26 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 00:43:26 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 00:43:26 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 00:43:26 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 00:43:26 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/mysucces/jute.mysuccesselearningplatform.com/include/bengali_footer.php on line 66
+[26-Oct-2024 00:43:26 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mysucces/jute.mysuccesselearningplatform.com/include/bengali_footer.php on line 66
+[26-Oct-2024 01:10:59 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 01:10:59 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 01:10:59 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 01:10:59 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 01:10:59 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 01:10:59 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 01:10:59 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 01:10:59 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 01:10:59 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/mysucces/jute.mysuccesselearningplatform.com/include/bengali_footer.php on line 66
+[26-Oct-2024 01:10:59 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mysucces/jute.mysuccesselearningplatform.com/include/bengali_footer.php on line 66
+[26-Oct-2024 01:10:59 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 01:10:59 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 01:10:59 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 01:10:59 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 01:10:59 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 01:10:59 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 01:10:59 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 01:10:59 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 01:10:59 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mysucces/jute.mysuccesselearningplatform.com/include/bengali_footer.php on line 66
+[26-Oct-2024 01:11:27 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 01:11:27 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 01:11:27 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 01:11:27 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 01:11:27 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 01:11:27 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 01:11:27 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 01:11:27 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 01:11:27 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mysucces/jute.mysuccesselearningplatform.com/include/bengali_footer.php on line 66
+[26-Oct-2024 01:11:32 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 01:11:32 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 01:11:32 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 01:11:32 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 01:11:32 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 01:11:32 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 01:11:32 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 01:11:32 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 01:11:32 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mysucces/jute.mysuccesselearningplatform.com/include/bengali_footer.php on line 66
+[26-Oct-2024 01:11:39 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 73
+[26-Oct-2024 01:11:39 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 74
+[26-Oct-2024 01:11:39 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 73
+[26-Oct-2024 01:11:39 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 74
+[26-Oct-2024 01:11:39 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 73
+[26-Oct-2024 01:11:39 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 74
+[26-Oct-2024 01:11:39 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 73
+[26-Oct-2024 01:11:39 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 74
+[26-Oct-2024 01:11:39 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 73
+[26-Oct-2024 01:11:39 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 74
+[26-Oct-2024 01:11:39 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 73
+[26-Oct-2024 01:11:39 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 74
+[26-Oct-2024 01:11:39 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 73
+[26-Oct-2024 01:11:39 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 74
+[26-Oct-2024 01:11:39 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 73
+[26-Oct-2024 01:11:39 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 74
+[26-Oct-2024 01:11:39 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 73
+[26-Oct-2024 01:11:39 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 74
+[26-Oct-2024 01:11:39 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 73
+[26-Oct-2024 01:11:39 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 74
+[26-Oct-2024 01:11:39 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 73
+[26-Oct-2024 01:11:39 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 74
+[26-Oct-2024 01:11:39 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 73
+[26-Oct-2024 01:11:39 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 74
+[26-Oct-2024 01:11:39 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 73
+[26-Oct-2024 01:11:39 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 74
+[26-Oct-2024 01:11:39 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 73
+[26-Oct-2024 01:11:39 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 74
+[26-Oct-2024 01:11:39 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mysucces/jute.mysuccesselearningplatform.com/include/footer1.php on line 63
+[26-Oct-2024 01:11:47 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 01:11:47 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 01:11:47 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 01:11:47 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 01:11:47 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 01:11:47 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 01:11:47 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 01:11:47 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 01:11:47 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mysucces/jute.mysuccesselearningplatform.com/include/bengali_footer.php on line 66
+[26-Oct-2024 01:13:26 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 01:13:26 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 01:13:26 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 01:13:26 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 01:13:26 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 01:13:26 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 01:13:26 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 01:13:26 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 01:13:26 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mysucces/jute.mysuccesselearningplatform.com/include/bengali_footer.php on line 66
+[26-Oct-2024 01:45:39 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 01:45:39 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 01:45:39 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 01:45:39 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 01:45:39 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 01:45:39 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 01:45:39 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 01:45:39 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 01:45:39 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/mysucces/jute.mysuccesselearningplatform.com/include/bengali_footer.php on line 66
+[26-Oct-2024 01:45:39 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mysucces/jute.mysuccesselearningplatform.com/include/bengali_footer.php on line 66
+[26-Oct-2024 01:45:44 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 01:45:44 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 01:45:44 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 01:45:44 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 01:45:44 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 01:45:44 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 01:45:44 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 01:45:44 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 01:45:44 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mysucces/jute.mysuccesselearningplatform.com/include/bengali_footer.php on line 66
+[26-Oct-2024 04:32:48 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 04:32:48 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 04:32:48 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 04:32:48 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 04:32:48 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 04:32:48 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 04:32:48 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 04:32:48 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 04:32:48 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/mysucces/jute.mysuccesselearningplatform.com/include/bengali_footer.php on line 66
+[26-Oct-2024 04:32:48 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mysucces/jute.mysuccesselearningplatform.com/include/bengali_footer.php on line 66
+[26-Oct-2024 07:53:06 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mysucces/jute.mysuccesselearningplatform.com/include/footer1.php on line 63
+[26-Oct-2024 09:17:32 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 73
+[26-Oct-2024 09:17:32 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 74
+[26-Oct-2024 09:17:32 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 73
+[26-Oct-2024 09:17:32 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 74
+[26-Oct-2024 09:17:32 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 73
+[26-Oct-2024 09:17:32 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 74
+[26-Oct-2024 09:17:32 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 73
+[26-Oct-2024 09:17:32 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 74
+[26-Oct-2024 09:17:32 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 73
+[26-Oct-2024 09:17:32 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 74
+[26-Oct-2024 09:17:32 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 73
+[26-Oct-2024 09:17:32 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 74
+[26-Oct-2024 09:17:32 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 73
+[26-Oct-2024 09:17:32 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 74
+[26-Oct-2024 09:17:32 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 73
+[26-Oct-2024 09:17:32 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 74
+[26-Oct-2024 09:17:32 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 73
+[26-Oct-2024 09:17:32 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 74
+[26-Oct-2024 09:17:32 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 73
+[26-Oct-2024 09:17:32 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 74
+[26-Oct-2024 09:17:32 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 73
+[26-Oct-2024 09:17:32 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 74
+[26-Oct-2024 09:17:32 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 73
+[26-Oct-2024 09:17:32 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 74
+[26-Oct-2024 09:17:32 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 73
+[26-Oct-2024 09:17:32 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 74
+[26-Oct-2024 09:17:32 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 73
+[26-Oct-2024 09:17:32 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 74
+[26-Oct-2024 09:17:32 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 73
+[26-Oct-2024 09:17:32 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/product_res.php on line 74
+[26-Oct-2024 09:17:32 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mysucces/jute.mysuccesselearningplatform.com/include/footer1.php on line 63
+[26-Oct-2024 09:18:05 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 09:18:05 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 09:18:05 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 09:18:05 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 09:18:05 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 09:18:05 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 09:18:05 UTC] PHP Notice:  Undefined index: bn_name in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 250
+[26-Oct-2024 09:18:05 UTC] PHP Notice:  Undefined index: bn_desc in /home/mysucces/jute.mysuccesselearningplatform.com/ajax/page_res.php on line 251
+[26-Oct-2024 09:18:05 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/mysucces/jute.mysuccesselearningplatform.com/include/bengali_footer.php on line 66
+[26-Oct-2024 09:18:05 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mysucces/jute.mysuccesselearningplatform.com/include/bengali_footer.php on line 66
+[26-Oct-2024 09:19:53 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mysucces/jute.mysuccesselearningplatform.com/include/footer1.php on line 63
+[26-Oct-2024 09:21:54 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mysucces/jute.mysuccesselearningplatform.com/include/footer1.php on line 63
+[26-Oct-2024 09:22:10 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mysucces/jute.mysuccesselearningplatform.com/include/footer1.php on line 63
