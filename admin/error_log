@@ -1,0 +1,88 @@
+[26-Oct-2024 01:15:05 UTC] PHP Notice:  Undefined variable: row in /home/mysucces/jute.mysuccesselearningplatform.com/admin/slider/manage.php on line 129
+[26-Oct-2024 01:15:05 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/slider/manage.php on line 129
+[26-Oct-2024 01:15:05 UTC] PHP Notice:  Undefined variable: row in /home/mysucces/jute.mysuccesselearningplatform.com/admin/slider/manage.php on line 139
+[26-Oct-2024 01:15:05 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/slider/manage.php on line 139
+[26-Oct-2024 07:39:50 UTC] PHP Notice:  Undefined variable: row in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 167
+[26-Oct-2024 07:39:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 167
+[26-Oct-2024 07:39:50 UTC] PHP Notice:  Undefined variable: row in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 177
+[26-Oct-2024 07:39:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 177
+[26-Oct-2024 07:39:50 UTC] PHP Notice:  Undefined variable: row in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 221
+[26-Oct-2024 07:39:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 221
+[26-Oct-2024 07:39:50 UTC] PHP Notice:  Undefined variable: row in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 231
+[26-Oct-2024 07:39:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 231
+[26-Oct-2024 07:39:50 UTC] PHP Notice:  Undefined variable: row in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 245
+[26-Oct-2024 07:39:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 245
+[26-Oct-2024 07:41:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 23
+[26-Oct-2024 07:41:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 167
+[26-Oct-2024 07:41:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 177
+[26-Oct-2024 07:41:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 221
+[26-Oct-2024 07:41:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 231
+[26-Oct-2024 07:41:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 245
+[26-Oct-2024 07:43:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 23
+[26-Oct-2024 07:43:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 167
+[26-Oct-2024 07:43:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 177
+[26-Oct-2024 07:43:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 221
+[26-Oct-2024 07:43:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 231
+[26-Oct-2024 07:43:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 245
+[26-Oct-2024 07:43:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 23
+[26-Oct-2024 07:43:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 167
+[26-Oct-2024 07:43:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 177
+[26-Oct-2024 07:43:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 221
+[26-Oct-2024 07:43:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 231
+[26-Oct-2024 07:43:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 245
+[26-Oct-2024 07:44:06 UTC] PHP Notice:  Undefined variable: row in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 167
+[26-Oct-2024 07:44:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 167
+[26-Oct-2024 07:44:06 UTC] PHP Notice:  Undefined variable: row in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 177
+[26-Oct-2024 07:44:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 177
+[26-Oct-2024 07:44:06 UTC] PHP Notice:  Undefined variable: row in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 221
+[26-Oct-2024 07:44:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 221
+[26-Oct-2024 07:44:06 UTC] PHP Notice:  Undefined variable: row in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 231
+[26-Oct-2024 07:44:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 231
+[26-Oct-2024 07:44:06 UTC] PHP Notice:  Undefined variable: row in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 245
+[26-Oct-2024 07:44:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 245
+[26-Oct-2024 08:00:10 UTC] PHP Notice:  Undefined variable: row in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 167
+[26-Oct-2024 08:00:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 167
+[26-Oct-2024 08:00:10 UTC] PHP Notice:  Undefined variable: row in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 177
+[26-Oct-2024 08:00:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 177
+[26-Oct-2024 08:00:10 UTC] PHP Notice:  Undefined variable: row in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 221
+[26-Oct-2024 08:00:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 221
+[26-Oct-2024 08:00:10 UTC] PHP Notice:  Undefined variable: row in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 231
+[26-Oct-2024 08:00:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 231
+[26-Oct-2024 08:00:10 UTC] PHP Notice:  Undefined variable: row in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 245
+[26-Oct-2024 08:00:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 245
+[26-Oct-2024 09:06:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 23
+[26-Oct-2024 09:06:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 167
+[26-Oct-2024 09:06:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 177
+[26-Oct-2024 09:06:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 221
+[26-Oct-2024 09:06:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 231
+[26-Oct-2024 09:06:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 245
+[26-Oct-2024 09:08:19 UTC] PHP Notice:  Undefined variable: row in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 167
+[26-Oct-2024 09:08:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 167
+[26-Oct-2024 09:08:19 UTC] PHP Notice:  Undefined variable: row in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 177
+[26-Oct-2024 09:08:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 177
+[26-Oct-2024 09:08:19 UTC] PHP Notice:  Undefined variable: row in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 221
+[26-Oct-2024 09:08:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 221
+[26-Oct-2024 09:08:19 UTC] PHP Notice:  Undefined variable: row in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 231
+[26-Oct-2024 09:08:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 231
+[26-Oct-2024 09:08:19 UTC] PHP Notice:  Undefined variable: row in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 245
+[26-Oct-2024 09:08:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 245
+[26-Oct-2024 09:09:02 UTC] PHP Notice:  Undefined variable: row in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 167
+[26-Oct-2024 09:09:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 167
+[26-Oct-2024 09:09:02 UTC] PHP Notice:  Undefined variable: row in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 177
+[26-Oct-2024 09:09:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 177
+[26-Oct-2024 09:09:02 UTC] PHP Notice:  Undefined variable: row in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 221
+[26-Oct-2024 09:09:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 221
+[26-Oct-2024 09:09:02 UTC] PHP Notice:  Undefined variable: row in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 231
+[26-Oct-2024 09:09:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 231
+[26-Oct-2024 09:09:02 UTC] PHP Notice:  Undefined variable: row in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 245
+[26-Oct-2024 09:09:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 245
+[26-Oct-2024 09:09:33 UTC] PHP Notice:  Undefined variable: row in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 167
+[26-Oct-2024 09:09:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 167
+[26-Oct-2024 09:09:33 UTC] PHP Notice:  Undefined variable: row in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 177
+[26-Oct-2024 09:09:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 177
+[26-Oct-2024 09:09:33 UTC] PHP Notice:  Undefined variable: row in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 221
+[26-Oct-2024 09:09:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 221
+[26-Oct-2024 09:09:33 UTC] PHP Notice:  Undefined variable: row in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 231
+[26-Oct-2024 09:09:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 231
+[26-Oct-2024 09:09:33 UTC] PHP Notice:  Undefined variable: row in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 245
+[26-Oct-2024 09:09:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mysucces/jute.mysuccesselearningplatform.com/admin/product/manage.php on line 245
