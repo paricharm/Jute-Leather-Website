@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custom Select with Images</title>
+    <style>
+        .custom-select {
+            position: relative;
+            display: inline-block;
+            width: 200px;
+        }
+
+        .select-selected {
+            background-color: #f1f1f1;
+            padding: 10px;
+            border: 1px solid #ccc;
+            cursor: pointer;
+        }
+
+        .select-items {
+            display: none;
+            position: absolute;
+            background-color: #f1f1f1;
+            border: 1px solid #ccc;
+            z-index: 99;
+            width: 100%;
+        }
+
+        .select-items div {
+            padding: 10px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+        }
+
+        .select-items img {
+            width: 20px;
+            height: 20px;
+            margin-right: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="custom-select">
+    <div class="select-selected">Select Language</div>
+    <div class="select-items">
+        <div data-value="en" class="select-selected"><img src="assets/img/us.png" alt="English"> English</div>
+        <div data-value="es" ><img src="assets/img/bn.jpg" alt="Spanish"> Bengali</div>
+    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function() {
+        $(".select-selected").click(function() {
+            $(".select-items").toggle();
+        });
+
+        $(".select-items div").click(function() {
+            const selectedLang = $(this).data("value");
+            const langText = $(this).text().trim();
+            $(".select-selected").text(langText);
+            $(".select-items").hide();
+            console.log("Selected Language:", selectedLang); // Use this value as needed
+        });
+
+        // Close dropdown if clicked outside
+        $(document).click(function(e) {
+            if (!$(e.target).closest('.custom-select').length) {
+                $(".select-items").hide();
+            }
+        });
+    });
+</script>
+
+</body>
+</html>
